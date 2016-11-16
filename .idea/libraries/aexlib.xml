@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aexlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/aexlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
